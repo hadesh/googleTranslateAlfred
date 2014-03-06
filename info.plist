@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.alfred.googletranslate</string>
+	<string>com.alfredhades.googletranslate</string>
 	<key>connections</key>
 	<dict>
 		<key>18AB8BD0-D143-417E-A96B-24181D9A46CB</key>
